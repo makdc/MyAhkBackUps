@@ -75,7 +75,7 @@ ExitApp
 /*
 sleep 1000
 
-TCC.WaitElementExist("ControlType=Text AND Name='Participant:'").Click("Left")
+
 sleep 100
 send {tab}
 sleep 100
